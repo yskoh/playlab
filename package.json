@@ -52,7 +52,7 @@
     "front-matter": "^2.1.2",
     "fs-extra": "^7.0.0",
     "glob": "^7.1.2",
-    "handlebars": "4.0.11",
+    "handlebars": "4.7.6",
     "istanbul": "0.4.5",
     "jquery": "3.4.0",
     "jsdoc": "3.5.5",
